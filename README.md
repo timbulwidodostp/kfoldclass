@@ -1,6 +1,8 @@
 # kfoldclass
 Classification statistics for k-fold cross-validation of binary outcomes Use kfoldclass With STATA 18
 
+https://www.youtube.com/watch?v=0kjG5JSPsPI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
